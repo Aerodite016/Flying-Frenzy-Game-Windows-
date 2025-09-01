@@ -1,4 +1,4 @@
-# FlyingFrenzyGame
+# FlyingFrenzyGame (Windows)
 A game inspired by "Flappy Bird".
 
 Press the Spacebar or Left Click of the mouse to fly the bird.
